@@ -1,0 +1,7 @@
+{
+  "profiles": {
+    "StressTestPoc": {
+      "commandName": "Project"
+    }
+  }
+}
